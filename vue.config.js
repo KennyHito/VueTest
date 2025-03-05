@@ -1,9 +1,9 @@
 module.exports = {
   pages: {
     index: {
-      //入口
-      entry:'./02_src_ref属性/main.js'
-      // entry: 'src/main.js',
+      //在这里每次更改入口路劲地址即可切换
+      entry: './src/main.js',
+      // entry: './01_src_分析脚手架/main.js',
     },
   },
 	lintOnSave:false, //关闭语法检查
