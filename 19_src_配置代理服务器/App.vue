@@ -11,7 +11,6 @@ export default {
 	name: 'App',
 	methods: {
 		getStudents() {
-			// 这里的地址根据自己本地服务器地址进行修改
 			axios.get('http://localhost:8080/students').then(
 				response => {
 					console.log('请求成功了', response.data)
@@ -22,7 +21,6 @@ export default {
 			)
 		},
 		getCars() {
-			// 这里的地址根据自己本地服务器地址进行修改
 			axios.get('http://localhost:8080/demo/cars').then(
 				response => {
 					console.log('请求成功了', response.data)
