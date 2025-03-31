@@ -281,9 +281,11 @@ https://www.bilibili.com/video/BV1Zy4y1K7SH/?p=6&spm_id_from=pageDriver&vd_sourc
 1. 作用：在插入、更新或移除 DOM元素时，在合适的时候给元素添加样式类名。
 
 2. 图示：
+
 <video width="320" height="240" controls>
     <source src="./17_src_过度与动画/assets/voide.mp4" type="video/mp4">
 </video>
+
 3. 写法：
 
    1. 准备好样式：
