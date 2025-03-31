@@ -280,7 +280,9 @@ https://www.bilibili.com/video/BV1Zy4y1K7SH/?p=6&spm_id_from=pageDriver&vd_sourc
 
 1. 作用：在插入、更新或移除 DOM元素时，在合适的时候给元素添加样式类名。
 
-2. 图示：<iframe height=498 width=510 src="https://github.com/KennyHito/VueTest/blob/main/17_src_%E8%BF%87%E5%BA%A6%E4%B8%8E%E5%8A%A8%E7%94%BB/assets/voide.mp4">
+2. 图示：
+
+<video src="<video controls src="https://github.com/KennyHito/VueTest/blob/main/17_src_%E8%BF%87%E5%BA%A6%E4%B8%8E%E5%8A%A8%E7%94%BB/assets/voide.mp4" title="视频链接"></video>"></video>
 
 3. 写法：
 
