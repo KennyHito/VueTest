@@ -3,7 +3,7 @@ module.exports = {
     index: {
       //在这里每次更改入口路劲地址即可切换
       // entry: './src/main.js',
-      entry: './28_src_求和案例_多组件共享数据/main.js',
+      entry: './06_src_scoped样式/main.js',
     },
   },
 	lintOnSave:false, //关闭语法检查
