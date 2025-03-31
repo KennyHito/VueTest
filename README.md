@@ -282,7 +282,7 @@ https://www.bilibili.com/video/BV1Zy4y1K7SH/?p=6&spm_id_from=pageDriver&vd_sourc
 
 2. 图示：
 
-<video src="<video controls src="https://github.com/KennyHito/VueTest/blob/main/17_src_%E8%BF%87%E5%BA%A6%E4%B8%8E%E5%8A%A8%E7%94%BB/assets/voide.mp4" title="视频链接"></video>"></video>
+<video src="https://github.com/KennyHito/VueTest/blob/main/17_src_%E8%BF%87%E5%BA%A6%E4%B8%8E%E5%8A%A8%E7%94%BB/assets/voide.mp4"></video>
 
 3. 写法：
 
