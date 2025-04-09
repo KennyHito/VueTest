@@ -47,7 +47,6 @@
 	}
 
 	li label {
-		float: left;
 		cursor: pointer;
 	}
 

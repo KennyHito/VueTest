@@ -3,7 +3,7 @@ module.exports = {
     index: {
       //在这里每次更改入口路劲地址即可切换
       // entry: './src/main.js',
-      entry: './06_src_scoped样式/main.js',
+      entry: './18_src_TodoList_动画/main.js',
     },
   },
 	lintOnSave:false, //关闭语法检查
