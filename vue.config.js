@@ -3,7 +3,7 @@ module.exports = {
     index: {
       // ⚠️ 在这里每次更改入口路劲地址即可切换 ⚠️
       // entry: './src/main.js',
-      entry: './40_src_全局路由守卫/main.js',
+      entry: './02_src_ref属性/main.js',
     },
   },
 	lintOnSave:false, //关闭语法检查
